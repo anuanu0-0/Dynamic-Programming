@@ -2,7 +2,7 @@
 //  Auxilary Space : O(n)
 //  For space optimized version Auxilary space can be reduced to O(1).
 //  IDEAL APPROACH : Matrix Exponentiation  with TC: O(log n)
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 #define ll long long int
 
