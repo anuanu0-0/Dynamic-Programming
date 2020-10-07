@@ -15,7 +15,9 @@ int winesProfitTD(int wines[], int i, int j, int y , int dp[][100]) {
 	int op2 = wines[j]*y + winesProfitTD(wines, i, j-1, y+1, dp);
 
 	return dp[i][j] = max(op1, op2);
-} 
+}
+
+// Try Bottom Up DP
 int main(){
 	int n;
 	cin >> n;
