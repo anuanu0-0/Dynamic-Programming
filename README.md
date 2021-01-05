@@ -3,4 +3,4 @@ Those who cannot remember the past, are condemned to repeat it.
 
 |Question no.|  DP Playlist | Status | Comments |
 | ------ | ------------- | ------------- | -------------- |
-| 1. | Alphacode  | Not done  | Introductory DP |
+| 1. | Alphacode  |   | Introductory DP |
