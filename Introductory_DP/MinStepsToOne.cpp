@@ -26,7 +26,25 @@ int countStepsToOne_td(int n, int *dp)
 }
 
 // Bottom up DP
-// TO DO
+int countStepsToOne_bu(int n, int *dp)
+{
+
+    dp[0] = dp[1] = 0;
+    dp[2] = dp[3] = 1;
+    int n1, n2, n3;
+    for (int i = 4; i <= n; i++)
+    {
+
+        n1 = n2 = n3 = INT_MAX;
+        if (i % 2 == 0)
+            n1 = dp[i / 2];
+        if (i % 3 == 0)
+            n2 = dp[i / 3];
+        n3 = dp[i - 1];
+        dp[i] = min(min(n1, n2), n3) + 1;
+    }
+    return dp[n];
+}
 
 int main()
 {
@@ -34,4 +52,5 @@ int main()
     cin >> n;
     int dp[n + 1] = {0};
     cout << countStepsToOne_td(n, dp) << endl;
+    cout << countStepsToOne_bu(n, dp) << endl;
 }
