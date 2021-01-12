@@ -1,3 +1,4 @@
+<pre>
 Given a floor of size n x m. Find the number of ways to tile the floor with tiles of size 1 x m . A tile can either be placed horizontally or vertically.
 
 Input Format
@@ -22,3 +23,4 @@ Sample Output
 Similar Questions : 
 [Leetcode - 790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
 [Tiling Problem](https://www.geeksforgeeks.org/tiling-problem/)
+</pre>
