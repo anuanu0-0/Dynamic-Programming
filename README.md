@@ -12,5 +12,5 @@ Those who cannot remember the past, are condemned to repeat it.
 |7.|Wines Problem||||To Do: Later(Revision)|
 |8.|[Tilling Problem - 2](https://github.com/anuanu0-0/Recursion_and_Dynamic-Programming/blob/master/Questions/Tiling%20Problem.md) |[Solution](https://github.com/anuanu0-0/Recursion_and_Dynamic-Programming/blob/master/Introductory_DP/TillingProblem2.cpp)|:white_check_mark: |Introductory DP (Easy-Medium)||
 |9.|[Counting Binary Strings](https://github.com/anuanu0-0/Recursion_and_Dynamic-Programming/blob/master/Questions/Count%20number%20of%20Binary%20Strings.md)|[Solution](https://github.com/anuanu0-0/Recursion_and_Dynamic-Programming/blob/master/Introductory_DP/CountBinaryStrings.cpp)|:white_check_mark: |Introductory DP (Easy-Medium)|Identify pattern|
-|10.||||||
+|10.|[Friends Pairing ](https://github.com/anuanu0-0/Recursion_and_Dynamic-Programming/blob/master/Questions/Friends%20Pairing.md)|[Solution](https://github.com/anuanu0-0/Recursion_and_Dynamic-Programming/blob/master/Introductory_DP/FriendsPairing.cpp)|:white_check_mark: |Introductory DP (Easy-Medium)||
 |||||||
