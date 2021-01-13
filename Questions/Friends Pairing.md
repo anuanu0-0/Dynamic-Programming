@@ -26,4 +26,5 @@ Output t lines each line describing the answer.
 #### RESOURCES
 
 [Gfg article](https://www.geeksforgeeks.org/friends-pairing-problem/)
+
 A Good Explanation by Sumeet Malik Sir :[Link](https://www.youtube.com/watch?v=SHDu0Ufjyk8)
