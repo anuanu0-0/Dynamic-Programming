@@ -1,9 +1,12 @@
 
 <pre>
-You are provided an integers N. You need to count all possible distinct binary strings of length N such that there are no consecutive 1’s.
+You are provided an integers N. You need to count all possible distinct binary strings
+
+of length N such that there are no consecutive 1’s.
 
 ### Input Format
-First line contains integer t which is number of test case. For each test case, it contains an integer n which is the the length of Binary String.
+First line contains integer t which is number of test case. For each test case,
+it contains an integer n which is the the length of Binary String.
 
 ### Constraints
 1<=t<=100 1<=n<=90
