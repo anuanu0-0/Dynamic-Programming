@@ -1,3 +1,5 @@
+
+<pre>
 You are provided an integers N. You need to count all possible distinct binary strings of length N such that there are no consecutive 1’s.
 
 ### Input Format
@@ -9,12 +11,14 @@ First line contains integer t which is number of test case. For each test case, 
 ### Output Format
 Print the number of all possible binary strings.
 
-### Sample Input
+</pre>
+#### Sample Input
 2
 2
 3
-### Sample Output
+#### Sample Output
 3
 5
-### Explanation
+#### Explanation
 1st test case : 00, 01, 10 2nd test case : 000, 001, 010, 100, 101
+
