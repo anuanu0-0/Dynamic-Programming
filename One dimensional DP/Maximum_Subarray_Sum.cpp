@@ -10,7 +10,7 @@ int maxSubarraySum(vector<int> v)
 
     for (int i = 1; i < v.size(); i++)
     {
-        dp[i] = dp[i - 1] + a[i];
+        dp[i] = dp[i - 1] + v[i];
         if (dp[i] < 0)
         {
             dp[i] = 0;
