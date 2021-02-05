@@ -4,7 +4,7 @@ Those who cannot remember the past, are condemned to repeat it. What if the past
 
 | No. | Topics              | Problem                            | Solution |
 | --- | ------------------- | ---------------------------------- | -------- |
-| 1   |                     | Fibonacci                          |          |
+| 1   | Intro DP            | Fibonacci                          |          |
 | 2   |                     | Min Steps to One                   |          |
 | 3   |                     | Coin Change                        |          |
 | 4   |                     | Wines Problem                      |          |
