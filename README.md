@@ -2,7 +2,7 @@
 
 Those who cannot remember the past, are condemned to repeat it. What if the past was fun? :wink:
 
-| No. | Topics              | Problem                            | Solution |
+| Day | Topics              | Problem                            | Solution |
 | --- | ------------------- | ---------------------------------- | -------- |
 | 1   | Intro DP            | Fibonacci                          |          |
 | 2   |                     | Min Steps to One                   |          |
