@@ -3,8 +3,9 @@
 Those who cannot remember the past, are condemned to repeat it. What if the past was fun? :wink:
 Starting Date: 3rd March 2021
 | Day | Topics              | Problem                            | Solution |
+Intro DP  
 | --- | ------------------- | ---------------------------------- | -------- |
-| 1   | Intro DP            | Fibonacci                          |          |
+| 1   |                     | Fibonacci                          |          |
 | 2   |                     | Min Steps to One                   |          |
 | 3   |                     | Coin Change                        |          |
 | 4   |                     | Wines Problem                      |          |
@@ -12,7 +13,10 @@ Starting Date: 3rd March 2021
 | 6   |                     | Count Binary Strings               |          |
 | 7   |                     | Friends Pairing Problem            |          |
 | 8   |                     | Palindromic Queries                |          |
-| 9   | 1D DP               | Maximum Subarray                   |          |
+
+# 1D DP 
+| ----| --------------------|------------------------------------| -------- |
+| 9   |                     | Maximum Subarray                   |          |
 | 10  |                     | Ladders                            |          |
 | 11  |                     | Advanced DP: Cell Mitosis          |          |
 | 12  |                     | Max Sum K-Partition                |          |
