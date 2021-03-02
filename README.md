@@ -2,9 +2,9 @@
 
 Those who cannot remember the past, are condemned to repeat it. What if the past was fun? :wink:
 Starting Date: 3rd March 2021
-| Day | Topics              | Problem                            | Solution |
-Intro DP  
+| Day | Topics              | Problem                            | Solution | 
 | --- | ------------------- | ---------------------------------- | -------- |
+|     | --Introductory DP-- |                                    |          |
 | 1   |                     | Fibonacci                          |          |
 | 2   |                     | Min Steps to One                   |          |
 | 3   |                     | Coin Change                        |          |
@@ -13,9 +13,7 @@ Intro DP
 | 6   |                     | Count Binary Strings               |          |
 | 7   |                     | Friends Pairing Problem            |          |
 | 8   |                     | Palindromic Queries                |          |
-
-# 1D DP 
-| ----| --------------------|------------------------------------| -------- |
+|     |     --1D DP--       |                                    |          |
 | 9   |                     | Maximum Subarray                   |          |
 | 10  |                     | Ladders                            |          |
 | 11  |                     | Advanced DP: Cell Mitosis          |          |
