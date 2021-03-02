@@ -4,10 +4,10 @@ Those who cannot remember the past, are condemned to repeat it. What if the past
 
 Starting Date: 3rd March 2021
 
-| Day | Topics              | Problem                            | Solution | 
+| Day | Topics              | Problem                            | Solutions| 
 | --- | ------------------- | ---------------------------------- | -------- |
 |     |   Introductory DP   |                                    |          |
-| 1   |                     | Fibonacci                          | [Solution](https://github.com/anuanu0-0/Dynamic-Programming/blob/master/Intro%20DP/Fibonacci.cpp)|
+| 1   |                     | Fibonacci                          | [Link](https://github.com/anuanu0-0/Dynamic-Programming/blob/master/Intro%20DP/Fibonacci.cpp)|
 | 2   |                     | Min Steps to One                   |          |
 | 3   |                     | Coin Change                        |          |
 | 4   |                     | Wines Problem                      |          |
