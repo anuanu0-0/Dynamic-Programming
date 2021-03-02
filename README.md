@@ -1,7 +1,9 @@
 # Dynamic-Programming
 
 Those who cannot remember the past, are condemned to repeat it. What if the past was fun? :wink:
+
 Starting Date: 3rd March 2021
+
 | Day | Topics              | Problem                            | Solution | 
 | --- | ------------------- | ---------------------------------- | -------- |
 |     |   Introductory DP   |                                    |          |
