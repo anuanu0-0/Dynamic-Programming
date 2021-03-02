@@ -7,7 +7,7 @@ Starting Date: 3rd March 2021
 | Day | Topics              | Problem                            | Solution | 
 | --- | ------------------- | ---------------------------------- | -------- |
 |     |   Introductory DP   |                                    |          |
-| 1   |                     | Fibonacci                          |          |
+| 1   |                     | Fibonacci                          | [Solution](https://github.com/anuanu0-0/Dynamic-Programming/blob/master/Intro%20DP/Fibonacci.cpp)|
 | 2   |                     | Min Steps to One                   |          |
 | 3   |                     | Coin Change                        |          |
 | 4   |                     | Wines Problem                      |          |
