@@ -151,8 +151,8 @@ Starting Date: 3rd March 2021
 ## DP with Geometry
 | Day | Problem                           | Solutions |
 | --- | --------------------------------- | --------- |
-| 117 | --------Geometry Revision-------- |           |
-| 118 | -------Convex Hull Template------ |           |
+| 117 | Geometry Revision |           |
+| 118 | Convex Hull Template |           |
 | 119 | Bear and Bowling                  |           |
 | 120 | Bear and Bowling - 4              |           |
 | 121 | Elevate to dominate               |           |
@@ -161,19 +161,19 @@ Starting Date: 3rd March 2021
 
 
 ## Digit DP
-| Day | Problem        | Solutions             |
-| --- | -------------- | --------------------- | --- |
-| 124 | Classy Numbers |                       |
-| 125 |                | Maximum Product       |     |
-| 126 |                | D magic Digits        |     |
-| 127 |                | Total Palindromic Num |     |
-| 128 |                | Increasing XOR        |     |
-| 129 |                | Workchef              |     |
-| 130 |                | 369 numbers           |     |
-| 131 |                | Encoding              |     |
-| 132 |                | Pattern 110           |     |
-| 133 |                | PR Number             |     |
-
+| Day | Problem               | Solutions |
+| --- | --------------------- | --------- |
+| 124 | Classy Numbers        |           |
+| 125 | Maximum Product       |           |
+| 126 | D magic Digits        |           |
+| 127 | Total Palindromic Num |           |
+| 128 | Increasing XOR        |           |
+| 129 | Workchef              |           |
+| 130 | 369 numbers           |           |
+| 131 | Encoding              |           |
+| 132 | Pattern 110           |           |
+| 133 | PR Number             |           |
+  
 
 ## DP on trees
 | Day | Problem                | Solutions |
