@@ -3,20 +3,21 @@
 Those who cannot remember the past, are condemned to repeat it. What if the past was fun? :wink:
 
 Starting Date: 3rd March 2021
+
 Similar / Near Similar Problem Statements for given solution
 
 ## Introductory DP
 
-| Day | Problem                                                                             | Solutions                                                                                             |
-| --- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| 1   | [Fibonacci](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1) | [Link](https://github.com/anuanu0-0/Dynamic-Programming/blob/master/0.%20DP_Quickstart/Fibonacci.cpp) |
-| 2   | [Min Steps to One](https://www.spoj.com/problems/MST1/)                             |                                                                                                       |
-| 3   | [Coin Change](https://leetcode.com/problems/coin-change/)                           |                                                                                                       |
-| 4   | [Wines Problem](https://www.geeksforgeeks.org/maximum-profit-sale-wines/)           |                                                                                                       |
-| 5   | [Tiling Problem-II]()                                                               |                                                                                                       |
-| 6   | Count Binary Strings                                                                |                                                                                                       |
-| 7   | Friends Pairing Problem                                                             |                                                                                                       |
-| 8   | Palindromic Queries                                                                 |                                                                                                       |
+| Day | Problem                                                                                                             | Solutions                                                                                             |
+| --- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 1   | [Fibonacci](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1)                                 | [Link](https://github.com/anuanu0-0/Dynamic-Programming/blob/master/0.%20DP_Quickstart/Fibonacci.cpp) |
+| 2   | [Min Steps to One](https://www.spoj.com/problems/MST1/)                                                             |                                                                                                       |
+| 3   | [Coin Change](https://leetcode.com/problems/coin-change/)                                                           |                                                                                                       |
+| 4   | [Wines Problem](https://www.geeksforgeeks.org/maximum-profit-sale-wines/)                                           |                                                                                                       |
+| 5   | [Tiling Problem-II](https://github.com/anuanu0-0/Dynamic-Programming/blob/master/Problem%20Statements/TillingV2.md) |                                                                                                       |
+| 6   | [Count Binary Strings](https://practice.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1)                |                                                                                                       |
+| 7   | [Friends Pairing Problem](https://www.geeksforgeeks.org/friends-pairing-problem/)                                   |                                                                                                       |
+| 8   | Palindromic Queries                                                                                                 |                                                                                                       |
 
 ## 1D DP
 
@@ -278,3 +279,9 @@ Similar / Near Similar Problem Statements for given solution
 | 203 | LCS 5   |           |
 | 204 | LCS 6   |           |
 | 205 | LCS 7   |           |
+
+## Extra : Practice
+
+| Day | Problem                                                                               | Solutions |
+| --- | ------------------------------------------------------------------------------------- | --------- |
+| 206 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) |           |

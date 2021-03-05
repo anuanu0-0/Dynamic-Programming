@@ -1,20 +1,22 @@
-Given a floor of size n x m. Find the number of ways to tile the floor with tiles of size 1 x m . A tile can either be placed horizontally or vertically.
+## Given a floor of size n x m. Find the number of ways to tile the floor with tiles of size 1 x m . A tile can either be placed horizontally or vertically.
 
-Input Format
+### Input Format:
+
 First line of input contains an integer T denoting the number of test cases. Then T test cases follow.
 The first line of each test case contains two integers N and M.
 
-Constraints
+### Constraints
 
 <pre>
 1 <= T<= 1000
 1 <= N,M <= 100000
 </pre>
 
-Output Format
+### Output Format
+
 Print answer for every test case in a new line modulo 10^9+7.
 
-Sample Input
+### Sample Input
 
 <pre>
 2
@@ -22,7 +24,7 @@ Sample Input
 4 4
 </pre>
 
-Sample Output
+### Sample Output
 
 <pre>
 1
