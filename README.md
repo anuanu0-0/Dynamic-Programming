@@ -3,20 +3,23 @@
 Those who cannot remember the past, are condemned to repeat it. What if the past was fun? :wink:
 
 Starting Date: 3rd March 2021
+Similar / Near Similar Problem Statements for given solution
 
 ## Introductory DP
-| Day | Problem                 | Solutions |
-| --- | ----------------------- | --------- |
-| 1   | Fibonacci               | [Link]    |
-| 2   | Min Steps to One        |           |
-| 3   | Coin Change             |           |
-| 4   | Wines Problem           |           |
-| 5   | Tiling Problem-II       |           |
-| 6   | Count Binary Strings    |           |
-| 7   | Friends Pairing Problem |           |
-| 8   | Palindromic Queries     |           |
+
+| Day | Problem                                                                             | Solutions                                                                                             |
+| --- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 1   | [Fibonacci](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1) | [Link](https://github.com/anuanu0-0/Dynamic-Programming/blob/master/0.%20DP_Quickstart/Fibonacci.cpp) |
+| 2   | [Min Steps to One](https://www.spoj.com/problems/MST1/)                             |                                                                                                       |
+| 3   | [Coin Change](https://leetcode.com/problems/coin-change/)                           |                                                                                                       |
+| 4   | [Wines Problem](https://www.geeksforgeeks.org/maximum-profit-sale-wines/)           |                                                                                                       |
+| 5   | [Tiling Problem-II]()                                                               |                                                                                                       |
+| 6   | Count Binary Strings                                                                |                                                                                                       |
+| 7   | Friends Pairing Problem                                                             |                                                                                                       |
+| 8   | Palindromic Queries                                                                 |                                                                                                       |
 
 ## 1D DP
+
 | Day | Problem                        | Solutions |
 | --- | ------------------------------ | --------- |
 | 9   | Maximum Subarray               |           |
@@ -46,6 +49,7 @@ Starting Date: 3rd March 2021
 | 33  | Count Subsequences             |           |
 
 ## 2D-DP
+
 | Day | Problem                       | Solutions |
 | --- | ----------------------------- | --------- |
 | 34  | Matrix Chain Multiplication   |           |
@@ -77,8 +81,8 @@ Starting Date: 3rd March 2021
 | 60  | Square Brackets               |           |
 | 61  | Regex Matching                |           |
 
-
 ## Grid Based DP
+
 | Day | Problem               | Solutions |
 | --- | --------------------- | --------- |
 | 62  | Min. Cost Path        |           |
@@ -91,8 +95,8 @@ Starting Date: 3rd March 2021
 | 69  | Flood Fill            |           |
 | 70  | Max. Sum Rectangle    |           |
 
-
 ## Multidimensional DP
+
 | Day | Problem                            | Solutions |
 | --- | ---------------------------------- | --------- |
 | 71  | Tourist                            |           |
@@ -120,8 +124,8 @@ Starting Date: 3rd March 2021
 | 93  | Magical String - 2                 |           |
 | 94  | Magical String - 3                 |           |
 
-
 ## DP with Bitmasking
+
 | Day | Problem                     | Solutions |
 | --- | --------------------------- | --------- |
 | 95  | Travelling Salesman Problem |           |
@@ -147,20 +151,20 @@ Starting Date: 3rd March 2021
 | 115 | Dilemma                     |           |
 | 116 | Mehta and Bank Robbery      |           |
 
-
 ## DP with Geometry
-| Day | Problem                           | Solutions |
-| --- | --------------------------------- | --------- |
-| 117 | Geometry Revision |           |
-| 118 | Convex Hull Template |           |
-| 119 | Bear and Bowling                  |           |
-| 120 | Bear and Bowling - 4              |           |
-| 121 | Elevate to dominate               |           |
-| 122 | Fairnut and Triangles             |           |
-| 123 | Pairs on Line                     |           |
 
+| Day | Problem               | Solutions |
+| --- | --------------------- | --------- |
+| 117 | Geometry Revision     |           |
+| 118 | Convex Hull Template  |           |
+| 119 | Bear and Bowling      |           |
+| 120 | Bear and Bowling - 4  |           |
+| 121 | Elevate to dominate   |           |
+| 122 | Fairnut and Triangles |           |
+| 123 | Pairs on Line         |           |
 
 ## Digit DP
+
 | Day | Problem               | Solutions |
 | --- | --------------------- | --------- |
 | 124 | Classy Numbers        |           |
@@ -173,9 +177,9 @@ Starting Date: 3rd March 2021
 | 131 | Encoding              |           |
 | 132 | Pattern 110           |           |
 | 133 | PR Number             |           |
-  
 
 ## DP on trees
+
 | Day | Problem                | Solutions |
 | --- | ---------------------- | --------- |
 | 134 | Longest Path in a tree |           |
@@ -192,8 +196,8 @@ Starting Date: 3rd March 2021
 | 145 | Subset Collection      |           |
 | 146 | Coffee Shops           |           |
 
-
 ## DP on Graphs
+
 | Day | Problem               | Solutions |
 | --- | --------------------- | --------- |
 | 147 | Shopping Trip         |           |
@@ -205,8 +209,8 @@ Starting Date: 3rd March 2021
 | 153 | Ping Pong Racing      |           |
 | 154 | Royal Tour            |           |
 
-
 ## SOS DP
+
 | Day | Problem           | Solutions |
 | --- | ----------------- | --------- |
 | 155 | SOS DP basics     |           |
@@ -219,8 +223,8 @@ Starting Date: 3rd March 2021
 | 162 | Submasks of masks |           |
 | 163 | Trie or Bitmasks  |           |
 
-
 ## Atcoder DP Problem Set
+
 | Day | Problem          | Solutions |
 | --- | ---------------- | --------- |
 | 164 |                  |           |
@@ -251,8 +255,8 @@ Starting Date: 3rd March 2021
 | 189 | Grid 2           |           |
 | 190 | Frog 3           |           |
 
-
 ## Practice
+
 | Day | Problem                      | Solutions |
 | --- | ---------------------------- | --------- |
 | 191 | Modulo Sum                   |           |
@@ -263,8 +267,8 @@ Starting Date: 3rd March 2021
 | 196 | Shil and Palindrome Research |           |
 | 197 | Counting in Byteland         |           |
 
-
 ## Special Module
+
 | Day | Problem | Solutions |
 | --- | ------- | --------- |
 | 199 | LCS 1   |           |
