@@ -7,9 +7,10 @@ Similar / Near Similar Problem Statements for given solution
 ## Introductory DP
 
 <pre>
-Start[3rd March] : End[]
+Start[5th March] : End[]
 </pre>
 
+<<<<<<< HEAD
 | Day | Problem                                                                                                                        | Solutions                                                                                                 |
 | --- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
 | 1   | [Fibonacci](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1)                                            | [Link](https://github.com/anuanu0-0/Dynamic-Programming/blob/master/0.%20DP_Quickstart/Fibonacci.cpp)     |
@@ -20,6 +21,18 @@ Start[3rd March] : End[]
 | 6   | [Count Binary Strings](https://practice.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1)                           |                                                                                                           |
 | 7   | [Friends Pairing Problem](https://www.geeksforgeeks.org/friends-pairing-problem/)                                              |                                                                                                           |
 | 8   | [Palindromic Queries](https://github.com/anuanu0-0/Dynamic-Programming/blob/master/Problem%20Statements/PalindromicQueries.md) |                                                                                                           |
+=======
+| Day | Problem              | Solutions |
+| --- | -------------------- | --------- | 
+| 1   | [Fibonacci](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1)  | [Link](https://github.com/anuanu0-0/Dynamic-Programming/blob/master/0.%20DP_Quickstart/Fibonacci.cpp) |
+| 2   | [Min Steps to One](https://www.codingninjas.com/codestudio/problems/min-steps-to-one-using-dp_920548)                                                                                                                                | [Link](https://github.com/anuanu0-0/Dynamic-Programming/blob/master/0.%20DP_Quickstart/MinStepsToOne.cpp) |
+| 3   | [Coin Change](https://leetcode.com/problems/coin-change/)                                                                                                                                                                             | [Link](https://github.com/anuanu0-0/Dynamic-Programming/blob/master/0.%20DP_Quickstart/CoinChange1.cpp)   |
+| 4   | [Wines Problem](https://www.geeksforgeeks.org/maximum-profit-sale-wines/)  |                               |
+| 5   | [Tiling Problem-II](https://github.com/anuanu0-0/Dynamic-Programming/blob/master/Problem%20Statements/TillingV2.md)            |                                                                                                       |
+| 6   | [Count Binary Strings](https://practice.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1)                           |                                                                                                       |
+| 7   | [Friends Pairing Problem](https://www.geeksforgeeks.org/friends-pairing-problem/)                                              |                                                                                                       |
+| 8   | [Palindromic Queries](https://github.com/anuanu0-0/Dynamic-Programming/blob/master/Problem%20Statements/PalindromicQueries.md) |                                                                                                       |
+>>>>>>> 702704186e6cf2826d0074e4e44ca7be745b4b7c
 
 ## 1D DP
 

@@ -55,7 +55,6 @@ int maxProfit_bu(int *wines, int n)
         }
         year--;
     }
-
     return dp[0][n - 1];
 }
 
