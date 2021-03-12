@@ -10,7 +10,6 @@ Similar / Near Similar Problem Statements for given solution
 Start[5th March] : End[]
 </pre>
 
-<<<<<<< HEAD
 | Day | Problem                                                                                                                        | Solutions                                                                                                 |
 | --- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
 | 1   | [Fibonacci](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1)                                            | [Link](https://github.com/anuanu0-0/Dynamic-Programming/blob/master/0.%20DP_Quickstart/Fibonacci.cpp)     |
@@ -21,7 +20,6 @@ Start[5th March] : End[]
 | 6   | [Count Binary Strings](https://practice.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1)                           |                                                                                                           |
 | 7   | [Friends Pairing Problem](https://www.geeksforgeeks.org/friends-pairing-problem/)                                              |                                                                                                           |
 | 8   | [Palindromic Queries](https://github.com/anuanu0-0/Dynamic-Programming/blob/master/Problem%20Statements/PalindromicQueries.md) |                                                                                                           |
-=======
 | Day | Problem              | Solutions |
 | --- | -------------------- | --------- | 
 | 1   | [Fibonacci](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1)  | [Link](https://github.com/anuanu0-0/Dynamic-Programming/blob/master/0.%20DP_Quickstart/Fibonacci.cpp) |
