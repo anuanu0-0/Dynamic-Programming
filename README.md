@@ -32,7 +32,6 @@ Start[5th March] : End[]
 | 6   | [Count Binary Strings](https://practice.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1)                           |                                                                                                       |
 | 7   | [Friends Pairing Problem](https://www.geeksforgeeks.org/friends-pairing-problem/)                                              |                                                                                                       |
 | 8   | [Palindromic Queries](https://github.com/anuanu0-0/Dynamic-Programming/blob/master/Problem%20Statements/PalindromicQueries.md) |                                                                                                       |
->>>>>>> 702704186e6cf2826d0074e4e44ca7be745b4b7c
 
 ## 1D DP
 
